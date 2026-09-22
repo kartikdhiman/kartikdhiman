@@ -1,13 +1,21 @@
-# Hey there 👋, I'm Kartik
+Hey 👋, I'm Kartik
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kartikdhiman)
 ![LinkedIn](https://komarev.com/ghpvc/?username=kartikdhiman&label=Profile%20views&color=0e75b6&style=flat)
 
-## Bio
+## About Me
 
 Software Engineer with experience in Java, Spring Boot, and cloud-native application development. 🚀
 
 Specializing in Java/Spring frameworks and robust REST API development, I have a proven track record in legacy migrations, system performance tuning, and scalable microservices architecture. I have strong foundational roots in Agile methodologies, Test-Driven Development (TDD), and cloud-native technologies.
+
+## Technical Skill
+- Languages: Java, Kotlin, Typescript, Python
+- Frameworks: Spring, JPA, Hibernate
+- Cloud & DevOps: AWS, Docker, Kubernetes
+- Messaging: Apache Kafka
+- Databases: PostgreSQL, MySQL
+- Data Science & AI: Proficient in machine learning concepts, applying these to solve problems
 
 ---
 
